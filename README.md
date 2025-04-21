@@ -1,4 +1,4 @@
-# ✨ Encryption ✨
+# ✨ Cryptographer ✨
 A script for Encryption and decryption of text
 
 ## 🚀 features
